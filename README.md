@@ -9,7 +9,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 ## Running
 1. Clone the repository and navigate to the root of the project
    ```
-   git clone git@github.com:jonnybolton/aoc2021-elixir.git
+   git clone https://github.com/jonnybolton/aoc2021-elixir.git
    cd aoc2021-elixir
    ```
 2. Download the puzzle input files from the [Advent of Code website](https://adventofcode.com/2021). You will be required to create an account if you do not have one.
@@ -23,7 +23,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 | Challenge | File | Part 1 | Part 2 |
 |-----------|------|:------:|:------:|
 | [Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1) | [day01.exs](lib/day01.exs) | ✔ | ✔ |
-| [Day 2](https://adventofcode.com/2021/day/2) | | | |
+| [Day 2: Dive!](https://adventofcode.com/2021/day/2) | [day02.exs](lib/day02.exs) | ✔ | ✔ |
 | [Day 3](https://adventofcode.com/2021/day/3) | | | |
 | [Day 4](https://adventofcode.com/2021/day/4) | | | |
 | [Day 5](https://adventofcode.com/2021/day/5) | | | |
