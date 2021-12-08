@@ -26,7 +26,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 | [Day 2: Dive!](https://adventofcode.com/2021/day/2) | [day02.exs](lib/day02.exs) | ✔ | ✔ |
 | [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) | [day03.exs](lib/day03.exs) | ✔ | ✔ |
 | [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) | [day04.exs](lib/day04.exs) | ✔ | ✔ |
-| [Day 5](https://adventofcode.com/2021/day/5) | | | |
+| [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [day05.exs](lib/day05.exs) | ✔ | ✔ |
 | [Day 6](https://adventofcode.com/2021/day/6) | | | |
 | [Day 7](https://adventofcode.com/2021/day/7) | | | |
 | [Day 8](https://adventofcode.com/2021/day/8) | | | |
