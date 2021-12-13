@@ -30,7 +30,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | [day06.exs](lib/day06.exs) | ✔ | ✔ |
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | [day07.exs](lib/day07.exs) | ✔ | ✔ |
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | [day08.exs](lib/day08.exs) | ✔ | ✔ |
-| [Day 9](https://adventofcode.com/2021/day/9) | | | |
+| [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | [day09.exs](lib/day09.exs) | ✔ | ✔ |
 | [Day 10](https://adventofcode.com/2021/day/10) | | | |
 | [Day 11](https://adventofcode.com/2021/day/11) | | | |
 | [Day 12](https://adventofcode.com/2021/day/12) | | | |
