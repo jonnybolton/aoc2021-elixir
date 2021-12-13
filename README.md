@@ -32,7 +32,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | [day08.exs](lib/day08.exs) | ✔ | ✔ |
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | [day09.exs](lib/day09.exs) | ✔ | ✔ |
 | [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | [day10.exs](lib/day10.exs) | ✔ | ✔ |
-| [Day 11](https://adventofcode.com/2021/day/11) | | | |
+| [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11) | [day11.exs](lib/day11.exs) | ✔ | ✔ |
 | [Day 12](https://adventofcode.com/2021/day/12) | | | |
 | [Day 13](https://adventofcode.com/2021/day/13) | | | |
 | [Day 14](https://adventofcode.com/2021/day/14) | | | |
