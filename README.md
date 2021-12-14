@@ -35,7 +35,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 | [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11) | [day11.exs](lib/day11.exs) | ✔ | ✔ |
 | [Day 12: Passage Pathing](https://adventofcode.com/2021/day/12) | [day12.exs](lib/day12.exs) | ✔ | ✔ |
 | [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13) | [day13.exs](lib/day13.exs) | ✔ | ✔ |
-| [Day 14](https://adventofcode.com/2021/day/14) | | | |
+| [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14) | [day14.exs](lib/day14.exs) | ✔ | ✔ |
 | [Day 15](https://adventofcode.com/2021/day/15) | | | |
 | [Day 16](https://adventofcode.com/2021/day/16) | | | |
 | [Day 17](https://adventofcode.com/2021/day/17) | | | |
