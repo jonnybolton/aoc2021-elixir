@@ -39,7 +39,7 @@ I am instead aiming to write idiomatic Elixir code, making use of the different 
 | [Day 15: Chiton](https://adventofcode.com/2021/day/15) | [day15.exs](lib/day15.exs) | ✔ | ✔ |
 | [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | [day16.exs](lib/day16.exs) | ✔ | ✔ |
 | [Day 17: Trick Shot](https://adventofcode.com/2021/day/17) | [day17.exs](lib/day17.exs) | ✔ | ✔ |
-| [Day 18](https://adventofcode.com/2021/day/18) | | | |
+| [Day 18: Snailfish](https://adventofcode.com/2021/day/18) | [day18.exs](lib/day18.exs) | ✔ | ✔ |
 | [Day 19](https://adventofcode.com/2021/day/19) | | | |
 | [Day 20](https://adventofcode.com/2021/day/20) | | | |
 | [Day 21](https://adventofcode.com/2021/day/21) | | | |
